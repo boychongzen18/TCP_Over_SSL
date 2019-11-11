@@ -6,7 +6,8 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/TCP_Over_SSL/master/tcp.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/TCP_Over_SSL/master/tcp1.jpg)
 
-Link Applikasi Proxyfer : https://www.proxifier.com
+Link Applikasi Proxyfer : https://www.proxifier.com/download
+
 LINK AKUN SSL           : https://sshocean.com
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
