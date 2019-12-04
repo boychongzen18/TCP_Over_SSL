@@ -3,7 +3,7 @@
 # Author : Boychongzen aka Xroot
 
 # Tampilan TCP_Over_SSL For Windows Via Bold WIFI
-![be](https://raw.githubusercontent.com/boychongzen18/TCP_Over_SSL/master/wifi1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/TCP_Over_SSL/master/wifi.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/TCP_Over_SSL/master/tcp2.jpg)
 
 Link Applikasi Proxifier : https://www.proxifier.com/download
